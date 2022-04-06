@@ -2,7 +2,7 @@ package task;
 
 import java.util.Random;
 
-public class arrayPassword {
+public class ArrayPassword {
     public static void main(String[] args) {
         Random genPassword = new Random();
 

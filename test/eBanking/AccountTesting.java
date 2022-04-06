@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 public class AccountTesting {
     private Accounting account;
     @BeforeEach
-    public void setUp(){
+    public void startsWith(){
         account = new Accounting("2015347", "AJALA", "Tolu","1234");
     }
 

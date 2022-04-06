@@ -1,6 +1,6 @@
 package task;
 
-public class arrayTask {
+public class ArrayTask {
     public static void main(String[] args) {
         int[] threeHundred = new int[300];
 
