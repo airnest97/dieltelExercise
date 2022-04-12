@@ -39,6 +39,7 @@ public class DiceGameCraps {
                     System.out.println(sum);
                     System.out.println("You Win");
                     break;
+
                 }
             }
         }
